@@ -1,5 +1,6 @@
 {
   "execMap": {
-    "ts": "ts-node"
+    "ts": "ts-node",
+    "ignore": [".git", "node_modules/**/node_modules", ".test.ts", "fixtures/"]
   }
 }
