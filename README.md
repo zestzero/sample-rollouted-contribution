@@ -1,3 +1,5 @@
 # sample-rollouted-contribution
 
-sample rollout contribution logic
+Created from https://github.com/bitjson/typescript-starter using `npx typescript-starter`
+
+ ![Screenshot](/assets/Screenshot.png)
